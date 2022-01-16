@@ -13,3 +13,25 @@ a {color:#000;font-size:14px;}
 .hand{cursor:pointer;}
 .say{margin-left:5px;}
 .space{margin-right:150px;}
+.cv-btn {
+  padding-top: 20px;
+}
+.cv-btn a {
+  font-size: 14px;
+  color: rgb(236, 241, 250);
+  background-color: black;
+  border: 1px solid rgb(236, 241, 250);
+  border-radius: 4px;
+  padding: 12px 25px;
+  display: inline-block;
+  text-transform: uppercase;
+  font-weight: 650;
+  cursor: pointer;
+  transition: all 0.5s ease;
+  left: -320px;
+}
+.cv-btn a:hover {
+  background-color: transparent;
+  color: darkred;
+}
+
