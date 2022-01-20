@@ -5,7 +5,7 @@ var config = {
        "You come in my dreams",
        "You come in my thoughts",
        "Your cute face and dreamy eyes",
-       "Save meltedmy heart in knots",
+       "Save melted my heart in knots",
        "Whether it is morning or night",
        "I just can seem to get you",
        "Out of my mind or sight",
