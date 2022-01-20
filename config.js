@@ -11,8 +11,8 @@ var config = {
        "Out of my mind or sight",
        "come, pacify my beating heart",
        "Yes, I have fallen for you",
-       "Give me a nice warm hug"
-       "And say that you love me too..."
+       "Give me a nice warm hug", 
+       "And say that you love me too...", 
                      "By- Tarun",
   
         
